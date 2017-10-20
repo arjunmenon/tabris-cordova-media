@@ -9,7 +9,7 @@
   </author>
 
   <plugin name="cordova.plugins.diagnostic" />
-  <plugin name="https://github.com/jasminpethani/cordova-plugin-musicplayer.git" />
+  <plugin name="https://github.com/arjunmenon/tabris-plugin-player.git" />
   
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
