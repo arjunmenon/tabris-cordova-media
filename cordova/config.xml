@@ -7,11 +7,9 @@
   <author email="john@example.org">
     John Smith
   </author>
-  <plugin name="cordova-plugin-media" />
-  <plugin name="cordova-plugin-file" />
+
   <plugin name="cordova.plugins.diagnostic" />
-
-  <plugin name="https://github.com/NeoLSN/cordova-plugin-android-permissions.git" />
-
+  <plugin name="https://github.com/jasminpethani/cordova-plugin-musicplayer.git" />
+  
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
